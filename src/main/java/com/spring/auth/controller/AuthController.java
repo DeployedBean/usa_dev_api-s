@@ -86,7 +86,7 @@ public class AuthController {
 	}
 	
 	@GetMapping(value = "/verify")
-	public Boolean verifyEmail() {
+	public Boolean verifsyEmail() {
 		return true;
 	}
 	

@@ -1,2 +1,0 @@
-# spring_auth_initializer
-spring_auth_initializer
